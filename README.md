@@ -32,8 +32,10 @@ git push dokku master
 
 ### Setup config
 
+```
 dokku config:set <app name>GOATCOUNTER_DB='<connection string>'
 dokku ps:restart <app name>
+```
 
 ### Create domain
 
