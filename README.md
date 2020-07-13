@@ -53,4 +53,4 @@ dokku lets encrypt <app name>
 
 Visit <domain> in a browser you and it should all just work.
 
-Checkout [sent-hil.com](sent-hil.com) to see it in action.
+Checkout [sent-hil.com](https://sent-hil.com) to see it in action.
